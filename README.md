@@ -10,3 +10,5 @@ Logic Flip:
 Variables vs Constants:
 “Apple” stays the same all the time (constant).
 “Answer” can change and hold different values (variable).
+
+Day 4:
