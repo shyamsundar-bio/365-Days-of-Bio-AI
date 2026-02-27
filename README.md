@@ -19,3 +19,5 @@ Loop = logical automation of repetition.
 
 A fixed loop stops after fixed number of repetitions whereas a conditional loop stops only when the the result mismatches the given  condition whereas infinite loop is like the condition never goes wrong so the computer continues the same loop Infinite times
 
+Day 5:
+
