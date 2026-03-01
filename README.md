@@ -24,4 +24,9 @@ No laptop available
 Manually decoded my first RNA sequence into a protein sequence. Mastered Start/Stop codons.
 
 Day 6:
+Mastered the logic of the Central Dogma 
+(DNA ---> RNA ---> Protein).
+Analyzed a Silent Mutation where a change in DNA didn't change the protein result.
+Calculated a Reverse Complement strand manually.
+
 
