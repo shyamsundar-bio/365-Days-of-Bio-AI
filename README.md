@@ -29,4 +29,7 @@ Mastered the logic of the Central Dogma
 Analyzed a Silent Mutation where a change in DNA didn't change the protein result.
 Calculated a Reverse Complement strand manually.
 
+Day 7:
+hi
+hi
 
