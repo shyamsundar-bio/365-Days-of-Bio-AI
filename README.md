@@ -30,6 +30,9 @@ Analyzed a Silent Mutation where a change in DNA didn't change the protein resul
 Calculated a Reverse Complement strand manually.
 
 Day 7:
-hi
-hi
+Analysed the linkedin profile of bioinformaticians in Hyderabad and Bangalore and found 1 thing common in all of them is python and R language along with good paper publications
+
+Day 8:
+Hi
+Hlo
 
