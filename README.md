@@ -34,6 +34,6 @@ Day 7:
 Analysed the linkedin profile of bioinformaticians in Hyderabad and Bangalore and found 1 thing common in all of them is python and R language along with good paper publications
 
 Day 8:
-Hi
-Hlo
+Learned about strings,Integers, Floats.
+We can add only similiar terms like Strings + Strings or Integers + Integers but not Strings + Integers 
 
