@@ -1,5 +1,6 @@
 # 365-Days-of-Bio-AI
 My 365-day journey learning Python for Bio-AI Engineering
+
 Day 1: Environment setup and starting Python for Everybody
 
 Day 2: Understood the input and output via MIT webite and also understood that computers dont understand like we humans do instead they need clear step by step instructions. I also understood that strings is just a fancy word given for a group of characters
