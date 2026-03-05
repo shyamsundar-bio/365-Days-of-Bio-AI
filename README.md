@@ -1,4 +1,4 @@
-# 365-Days-of-Bio-AI
+i# 365-Days-of-Bio-AI
 My 365-day journey learning Python for Bio-AI Engineering
 
 Day 1: Environment setup and starting Python for Everybody
@@ -36,4 +36,8 @@ Analysed the linkedin profile of bioinformaticians in Hyderabad and Bangalore an
 Day 8:
 Learned about strings,Integers, Floats.
 We can add only similiar terms like Strings + Strings or Integers + Integers but not Strings + Integers 
+
+Day 9:
+Hi 
+
 
