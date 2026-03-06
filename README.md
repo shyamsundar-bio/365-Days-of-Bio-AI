@@ -40,5 +40,7 @@ We can add only similiar terms like Strings + Strings or Integers + Integers but
 Day 9:
 Hi 
 Hlo
+hi
+hlo
 
 
