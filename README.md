@@ -46,4 +46,5 @@ Mastered Data Types: Understanding the difference between Strings (DNA text) and
 
 Learnt Case Sensitivity: Debugged my first NameError after discovering Organism != organism in Python.
 
+Explored String Operators: Used + for Concatenation to join DNA fragments and * to repeat sequences multiple times.
 
