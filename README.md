@@ -38,13 +38,12 @@ Learned about strings,Integers, Floats.
 We can add only similiar terms like Strings + Strings or Integers + Integers but not Strings + Integers 
 
 Day 9:
-Hi 
-Hlo
-hi
-hlo
-hi
-hlo
-Hi
-hlo
-Hi
-Hlo
+Transitioning to Python (The Alphabet & Words)
+Environment Setup: Successfully launched my first coding environment in Google Colab and executed real Python code.
+
+Python Fundamentals:
+Mastered Data Types: Understanding the difference between Strings (DNA text) and Integers/Floats (counts and measurements).
+
+Learnt Case Sensitivity: Debugged my first NameError after discovering Organism != organism in Python.
+
+
