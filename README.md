@@ -50,3 +50,17 @@ Explored String Operators: Used + for Concatenation to join DNA fragments and * 
 
 Day 10:
 Today I learnt the below code
+
+# Part 1: Joining DNA
+fragment_1 = "ATG"
+fragment_2 = "CCG"
+full_sequence = fragment_1 + fragment_2
+
+# Part 2: Multiplying DNA (The PCR Simulation)
+pcr_copies = fragment_1 * 5
+
+print("The joined sequence is:")
+print(full_sequence)
+print("The PCR copies look like:")
+print(pcr_copies)
+
