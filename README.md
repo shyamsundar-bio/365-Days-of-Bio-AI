@@ -48,3 +48,5 @@ Learnt Case Sensitivity: Debugged my first NameError after discovering Organism 
 
 Explored String Operators: Used + for Concatenation to join DNA fragments and * to repeat sequences multiple times.
 
+Day 10:
+Today I learnt the below code
