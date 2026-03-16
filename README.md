@@ -68,3 +68,4 @@ Day 11:
 "String" * 2 =StringString
 
 Day 12:
+Saw 4 videos of code with Harry 100 days challenge 
