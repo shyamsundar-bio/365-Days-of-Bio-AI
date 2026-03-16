@@ -66,3 +66,5 @@ print(pcr_copies)
 
 Day 11:
 "String" * 2 =StringString
+
+Day 12:
