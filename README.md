@@ -72,3 +72,4 @@ Saw 4 videos of code with Harry 100 days challenge
 
 Day 13:
 Learnt about what's syntax
+and also learnt about some common errors
