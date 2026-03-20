@@ -76,3 +76,5 @@ and also learnt about some common errors
 
 Day 14:
 \n shows the next part of code in the next line but not in same line
+
+Day 15:
