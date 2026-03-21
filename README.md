@@ -78,3 +78,4 @@ Day 14:
 \n shows the next part of code in the next line but not in same line
 
 Day 15:
+Today I learnt about the definition of loops
