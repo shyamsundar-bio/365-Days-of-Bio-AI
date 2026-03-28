@@ -81,5 +81,3 @@ Day 14:
 Day 15:
 Today I learnt about the definition of loops
 Revised the previous content 
-hi
-hlo
