@@ -86,3 +86,4 @@ Day 16:
 Started learning loops today
 
 Day 17:
+.
