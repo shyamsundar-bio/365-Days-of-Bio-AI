@@ -86,4 +86,5 @@ Day 16:
 Started learning loops today
 
 Day 17:
+Read about basics of bioinformatics 
 .
