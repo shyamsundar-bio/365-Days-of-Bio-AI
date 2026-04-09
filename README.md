@@ -92,4 +92,4 @@ Day18:
 Today learnt about print("DNA Length:",len(dna))
 
 Day 19:
-Today I learnt about variables and started
+Today I learnt about variables and started to AI Engineer(Bio+AI)
